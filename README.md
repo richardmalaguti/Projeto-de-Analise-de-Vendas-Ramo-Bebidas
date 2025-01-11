@@ -33,3 +33,5 @@ Power BI
 - Já inseri 4 cartões no Dashboard de receita, contendo valores como receita total, descontos totais, quantidade vendida e etc.
 - Realizei 2 medidas DAX, uma para informar o valor total sem os descontos, e uma para saber o valor total dos descontos.
 - inseri 2 gráficos ao Dashboard, informando qual tipo de cliente rende mais a empresa, e quais os tipos de bebidas que rendem mais.
+- Finalizei a página que informa sobre o total de receitas obtidas, com os principais gráficos.
+- Agora irei decorar o Dashboard.
