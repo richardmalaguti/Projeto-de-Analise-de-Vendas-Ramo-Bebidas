@@ -51,3 +51,28 @@ clientes, criei colunas com fórmulas DAX, e medidas também com as fórmulas DA
 
 # Resultado Dashboard de Clientes:
 
+![DASH_4](https://github.com/user-attachments/assets/6717bbe2-b3ad-4ef1-bec9-dc2adda94034)
+
+# Fórmulas DAX:
+
+
+
+# Habilidades Desenvolvidas:
+
+- Fórmulas DAX: CALCULATE, SUM, BLANK, IF, SUMX;
+- Gráficos;
+- Python;
+- Pandas;
+- Storytelling;
+- Extração, Transformação e Carregamento;
+- Manipulação de Dados;
+- Tratamento de Erros;
+- Habilidades Análiticas.
+
+# Considerações Finais
+
+Este Projeto foi desenvolvido com o objetivo de demonstrar um pouco das minhas habilidades, ainda tenho muito a aprender, como por exemplo Machine Learning, Deep Learning, bibliotecas do Python,
+habilidades análiticas e etc. Mas isso tenho certeza que posso desenvolver com o tempo, espero que tenham gostado desse projeto, e que ele sirva como uma demonstração do que eu posso fazer para 
+agregar no seu time, caso se interessem no meu perfil. Muito obrigado!
+
+# Richard Sousa Malaguti
