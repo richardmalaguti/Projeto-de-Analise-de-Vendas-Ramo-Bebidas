@@ -10,13 +10,13 @@ decisões. Espero que gostem do projeto!
 - Python;
 - Jupyter Notebook.
 
-# Primeiro Passo:
+# Primeira Etapa:
 
 Python
 
 Realizei o processo de ETL, manipulação dos dados, e correção de erros, utilizando a linguagem Python juntamente com o pacote Pandas.
 
-# Segundo Passo:
+# Segunda Etapa:
 
 Power BI
 
@@ -31,3 +31,13 @@ Primeiramente criei a Página Inicial do Projeto, onde inseri o título e os cam
 Agora, ainda utilizando o Power BI, iniciei a confecção do Dashboard sobre as receitas da empresa. Durante esse processo, inseri gráficos e cartões ao Dashboard com
 informações de suma importância, criei fórmulas DAX para extrair informações da base de dados e ao final, pratiquei o storytelling para uma boa visualização dos dados. A seguir o resultado:
 
+# Resultado do Dashboard de Receita:
+
+![DASH_2](https://github.com/user-attachments/assets/e94e6f3b-2cff-43a6-b0cd-5fa2fae0e4a6)
+
+# Quarta Etapa:
+
+Na segunda etapa do Projeto, eu desenvolvi o Dashboard direcionado a informações sobre os produtos da empresa, e neste utilizei a segmentação de dados e gráficos clusterizados, e também criei
+fórmulas DAX e alguns estilos diferentes no gráfico. A seguir o resultado:
+
+# Resultado do Dashboard de Produtos:
