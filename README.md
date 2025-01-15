@@ -41,3 +41,13 @@ Na segunda etapa do Projeto, eu desenvolvi o Dashboard direcionado a informaçõ
 fórmulas DAX e alguns estilos diferentes no gráfico. A seguir o resultado:
 
 # Resultado do Dashboard de Produtos:
+
+![DASH_3](https://github.com/user-attachments/assets/9f6ef4b2-05b4-435c-9307-1b1573a1889a)
+
+# Quinta Etapa:
+
+Última etapa do Projeto, onde foi criado o Dashboard com foco em Clientes. Neste Dashboard, utilizei gráfico de linha e filtros nos gráficos para exibir informações personalizadas, como os Top 5 melhores
+clientes, criei colunas com fórmulas DAX, e medidas também com as fórmulas DAX. Segue o resultado:
+
+# Resultado Dashboard de Clientes:
+
