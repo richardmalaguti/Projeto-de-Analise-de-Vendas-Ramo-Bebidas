@@ -55,7 +55,7 @@ clientes, criei colunas com fórmulas DAX, e medidas também com as fórmulas DA
 
 # Fórmulas DAX:
 
-
+![DASH_5](https://github.com/user-attachments/assets/88bd8047-461d-4729-9a9f-767021a0ac2f)
 
 # Habilidades Desenvolvidas:
 
