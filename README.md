@@ -24,5 +24,5 @@ Primeiramente criei a Página Inicial do Projeto, onde inseri o título e os cam
 
 # Resultado do Dashboard Receita:
 
-![c](https://github.com/user-attachments/assets/2c309a0a-5054-45cc-9ac2-e5a367d07a88)
+![DASH_1](https://github.com/user-attachments/assets/efa5a1a3-7e47-43aa-8818-378a885c4b5d)
 
