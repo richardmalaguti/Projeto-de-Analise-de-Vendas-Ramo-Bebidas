@@ -24,7 +24,7 @@ Primeiramente criei a Página Inicial do Projeto, onde inseri o título e os cam
 
 # Resultado da Página Inicial:
 
-![DASH_1](https://github.com/user-attachments/assets/8edd4323-9c13-447e-9a76-1b92da7735c4)
+![Image](https://github.com/user-attachments/assets/56fc672a-80ac-4c68-baa4-5834cf477e58)
 
 # Terceira Etapa:
 
