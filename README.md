@@ -33,7 +33,7 @@ informações de suma importância, criei fórmulas DAX para extrair informaçõ
 
 # Resultado do Dashboard de Receita:
 
-![DASH_2](https://github.com/user-attachments/assets/e94e6f3b-2cff-43a6-b0cd-5fa2fae0e4a6)
+![Image](https://github.com/user-attachments/assets/352c4429-74c1-4203-868f-6fe8c5d6e5c4)
 
 # Quarta Etapa:
 
@@ -42,7 +42,7 @@ fórmulas DAX e alguns estilos diferentes no gráfico. A seguir o resultado:
 
 # Resultado do Dashboard de Produtos:
 
-![DASH_3](https://github.com/user-attachments/assets/9f6ef4b2-05b4-435c-9307-1b1573a1889a)
+![Image](https://github.com/user-attachments/assets/fbbda048-4fb4-47d6-bbdf-7c37cee7c1b0)
 
 # Quinta Etapa:
 
@@ -51,7 +51,7 @@ clientes, criei colunas com fórmulas DAX, e medidas também com as fórmulas DA
 
 # Resultado Dashboard de Clientes:
 
-![DASH_4](https://github.com/user-attachments/assets/6717bbe2-b3ad-4ef1-bec9-dc2adda94034)
+![Image](https://github.com/user-attachments/assets/4fe182fc-1cd9-4890-988e-63dc7d2bef6c)
 
 # Fórmulas DAX:
 
